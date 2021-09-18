@@ -3,6 +3,7 @@ import 'dart:math';
 import 'package:flutter/material.dart';
 import 'package:hello/pages/Mid/boxing_page.dart';
 import 'package:hello/pages/game/test_.dart';
+import 'package:hello/pages/homework/09.dart';
 
 import 'package:hello/pages/homework/gamepage_test.dart';
 import 'package:hello/pages/Mid/boxing_page.dart';
